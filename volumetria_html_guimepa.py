@@ -274,6 +274,7 @@ table.th-contrast thead th.sorted-asc .sort-ind,table.th-contrast thead th.sorte
 html = []
 html.append('<!DOCTYPE html>\n<html lang="pt-BR">\n<head>\n<meta charset="UTF-8">')
 html.append('<meta name="viewport" content="width=device-width, initial-scale=1.0">')
+html.append('<meta name="robots" content="noindex, nofollow">')
 html.append('<title>VOLUMETRIA GERAL ORIGEM PR GUIMEPA</title>')
 html.append('<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>')
 html.append('<style>' + CSS + '</style>')

@@ -3,6 +3,11 @@
 Dashboard HTML autocontido para acompanhamento da volumetria expedida da origem PR
 (empresas **DTOP** e **GMP**), no período de **01/07/2026 a 16/11/2026**.
 
+> **Acesso online:** https://guimepa.github.io/volumetria-dtop-gmp/
+> Publicado via GitHub Pages; o `index.html` redireciona para o relatório. O site está
+> marcado como `noindex` (não aparece em buscadores), mas o link é acessível a quem o tiver.
+
+
 ## Arquivos
 
 | Arquivo | Descrição |
