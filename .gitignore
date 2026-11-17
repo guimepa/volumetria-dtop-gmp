@@ -1,0 +1,8 @@
+# Bases brutas de origem — contêm dados pessoais/comerciais de clientes.
+# Inclua localmente para regenerar o painel, mas não versione.
+*.csv
+
+# Temporários
+__pycache__/
+*.pyc
+~$*
